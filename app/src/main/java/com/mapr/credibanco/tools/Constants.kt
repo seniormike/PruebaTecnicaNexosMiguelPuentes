@@ -6,7 +6,7 @@ package com.mapr.credibanco.tools
  */
 object Constants {
 
-   const val BASE_URL = "http://192.168.0.11:8080/api/payments/"
+   const val BASE_URL = "http://localhost:8080/api/payments/"
 
    // Default values
    const val DEFAULT_COMMERCE_CODE = "000123"
