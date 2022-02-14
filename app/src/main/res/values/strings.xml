@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CredibanCO</string>
+    <string name="db_name">CredibancoDB</string>
+    <string name="title_auth">Autorizar</string>
+    <string name="title_search_list">Buscar</string>
+    <string name="title_profile">Perfil</string>
+</resources>
